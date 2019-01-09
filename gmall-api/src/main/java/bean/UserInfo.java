@@ -1,4 +1,4 @@
-package com.atguigu.gmall.user.bean;
+package bean;
 /**
  * Created by admin on 2019/1/8.
  */
